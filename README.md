@@ -46,8 +46,8 @@ This command will execute ls -l on infile, pipe its output to grep hello, and wr
 
 **Operators**:
 
-<: Input redirection. Reads input from a file.
->: Output redirection. Writes output to a file.
+**<** : Input redirection. Reads input from a file.  
+**>** : Output redirection. Writes output to a file.
 
 ## System Calls
 **pipe**
